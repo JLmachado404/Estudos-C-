@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Head-And-Tails/1.0.0": {
+        "runtime": {
+          "Head-And-Tails.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Head-And-Tails/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

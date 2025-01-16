@@ -1,0 +1,15 @@
+C:\Users\Dev01\Desktop\Estudos-C#\Head-And-Tails\obj\Debug\net9.0\Head-And-Tails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev01\Desktop\Estudos-C#\Head-And-Tails\obj\Debug\net9.0\Head-And-Tails.AssemblyInfoInputs.cache
+C:\Users\Dev01\Desktop\Estudos-C#\Head-And-Tails\obj\Debug\net9.0\Head-And-Tails.AssemblyInfo.cs
+C:\Users\Dev01\Desktop\Estudos-C#\Head-And-Tails\obj\Debug\net9.0\Head-And-Tails.csproj.CoreCompileInputs.cache
+C:\Users\Dev01\Desktop\Estudos-C#\Head-And-Tails\obj\Debug\net9.0\Head-And-Tails.sourcelink.json
+C:\Users\Dev01\Desktop\Estudos-C#\Head-And-Tails\bin\Debug\net9.0\Head-And-Tails.exe
+C:\Users\Dev01\Desktop\Estudos-C#\Head-And-Tails\bin\Debug\net9.0\Head-And-Tails.deps.json
+C:\Users\Dev01\Desktop\Estudos-C#\Head-And-Tails\bin\Debug\net9.0\Head-And-Tails.runtimeconfig.json
+C:\Users\Dev01\Desktop\Estudos-C#\Head-And-Tails\bin\Debug\net9.0\Head-And-Tails.dll
+C:\Users\Dev01\Desktop\Estudos-C#\Head-And-Tails\bin\Debug\net9.0\Head-And-Tails.pdb
+C:\Users\Dev01\Desktop\Estudos-C#\Head-And-Tails\obj\Debug\net9.0\Head-And-Tails.dll
+C:\Users\Dev01\Desktop\Estudos-C#\Head-And-Tails\obj\Debug\net9.0\refint\Head-And-Tails.dll
+C:\Users\Dev01\Desktop\Estudos-C#\Head-And-Tails\obj\Debug\net9.0\Head-And-Tails.pdb
+C:\Users\Dev01\Desktop\Estudos-C#\Head-And-Tails\obj\Debug\net9.0\Head-And-Tails.genruntimeconfig.cache
+C:\Users\Dev01\Desktop\Estudos-C#\Head-And-Tails\obj\Debug\net9.0\ref\Head-And-Tails.dll
